@@ -11,7 +11,7 @@ const featuredWorksContent = {
 const FeaturedWorksBoxes = () => {
   return (
     <>
-      <div className="mr-6">
+      <div className="mr-6 px-6">
         <h1 className="text-black font-semibold font-heebo text-lg">
           {featuredWorksContent.lgHead2}
         </h1>
